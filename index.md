@@ -9,6 +9,11 @@ toc-title: Contents
 version: v0.1.0
 ---
 
+i wanted to put something on my github page and was inspired by
+[https://owickstrom.github.io/the-monospace-web/](owickstrom's monospace web).
+
+probably won't put much else here. check my [main site](https://benharri.org/) for the rest.
+
 ## Introduction
 
 Monospace fonts are dear to many of us. 
