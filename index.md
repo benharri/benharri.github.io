@@ -214,7 +214,7 @@ Let's go wild and draw a chart!
 
 Media objects are supported, like images and video:
 
-![A room in an old French castle (2024)](castle.jpg)
+![a picture of a horse with nonsensical labels on it](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:v7tbr6qxk6xanxzn6hjmbk7o/bafkreigq5dci7xwgjvrrao26z6wznz7pwou2panv2kpi6x7s7uyzlfe6gq@jpeg)
 
 ![[The Center of the Web (1914), Wikimedia](https://en.wikisource.org/wiki/Page:The_Center_of_the_Web_(1914).webm/11)](https://upload.wikimedia.org/wikipedia/commons/e/e0/The_Center_of_the_Web_%281914%29.webm)
 
